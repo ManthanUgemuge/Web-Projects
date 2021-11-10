@@ -1,0 +1,1 @@
+// Tribute Page Doesn't have any Javascript

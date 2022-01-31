@@ -1,5 +1,5 @@
 # WebProjects
-My All Web Developement Projects 
+My All Web Developement Projects.
 
 ## Tech Stacks Used
 

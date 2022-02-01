@@ -8,6 +8,7 @@ My All Web Developement Projects.
 <a target="_blank" href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img></a>
 <!--
 # All Projects Access Directly
+
 - Glassmorphism Calculator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Glassmorphism%20Calculator)
 - MythpatTributePage - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/MythpatTributePage)
 - Profile Picture Generator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Profile%20Picture%20Generator)
@@ -15,6 +16,7 @@ My All Web Developement Projects.
 - Scientific Calculator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Scientific%20Calculator)
 - Stopwatch - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Stopwatch)
 - Tip Calculator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Tip%20Calculator)
+
   -->
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.

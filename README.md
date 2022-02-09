@@ -6,10 +6,11 @@ My All Web Developement Projects.
 <a target="_blank" href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img></a>
 <a target="_blank" href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img></a>
 <a target="_blank" href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img></a>
-<!--
+
 # All Projects Access Directly
 
-- Glassmorphism Calculator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Glassmorphism%20Calculator)
+- Glassmorphism Calculator - [Live](https://manthanugemuge.github.io/Web-Projects/Glassmorphism%20Calculator/)
+<!--
 - MythpatTributePage - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/MythpatTributePage)
 - Profile Picture Generator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Profile%20Picture%20Generator)
 - QR Code Generator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/QR%20Code%20Generator)
@@ -17,7 +18,7 @@ My All Web Developement Projects.
 - Stopwatch - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Stopwatch)
 - Tip Calculator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Tip%20Calculator)
 
-  -->
+ -->
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
 

@@ -1,3 +1,4 @@
 Using HTML, CSS, and only vanilla Js
 
-Hosted here : https://calculator-glass-morph.000webhostapp.com/
+Hosted here : https://manthanugemuge.github.io/Web-Projects/Glassmorphism%20Calculator/
+

@@ -8,8 +8,8 @@ My All Web Developement Projects.
 <a target="_blank" href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img></a>
 
 # All Projects Access Directly
-|Project|Link|
-| ------------- | ------------- |
+|-|Project|Link|
+|| ------------- | ------------- |
 |Glassmorphism Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Glassmorphism%20Calculator/)|
 |MythpatTributePage|[Live](https://manthanugemuge.github.io/WebProjects/MythpatTributePage)|
 |Profile Picture Generator|[Live](https://manthanugemuge.github.io/WebProjects/Profile%20Picture%20Generator)|

@@ -10,8 +10,7 @@ My All Web Developement Projects.
 # All Projects Access Directly
 |Project|Link|
 | ------------- | ------------- |
-|Color Picker (ColorHunt)|https://colorhunt.co/ |
--  - [Live](https://manthanugemuge.github.io/Web-Projects/Glassmorphism%20Calculator/)
+|Glassmorphism Calculator|[Live](https://manthanugemuge.github.io/Web-Projects/Glassmorphism%20Calculator/)|
 <!--
 - MythpatTributePage - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/MythpatTributePage)
 - Profile Picture Generator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Profile%20Picture%20Generator)

@@ -14,15 +14,12 @@ My All Web Developement Projects.
 |MythpatTributePage|[Live](https://manthanugemuge.github.io/WebProjects/MythpatTributePage)|
 |Profile Picture Generator|[Live](https://manthanugemuge.github.io/WebProjects/Profile%20Picture%20Generator)|
 |QR Code Generator|[Live](https://manthanugemuge.github.io/WebProjects/QR%20Code%20Generator)|
-|Scientific Calculator||
+|Scientific Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Scientific%20Calculator)|
 |Stopwatch||
 |Tip Calculator||
 
 [Live](https://manthanugemuge.github.io/WebProjects/Profile%20Picture%20Generator)
 
-
--  - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/QR%20Code%20Generator)
--  - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Scientific%20Calculator)
 -  - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Stopwatch)
 -  - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Tip%20Calculator)
 

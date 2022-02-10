@@ -1,7 +1,7 @@
 alert("Scientific Calculator")
-function quadraticroot(){
-	document.calcul.result.value=Math.pow(document.calcul.result.value, 4);
-}
+// function quadraticroot(){
+// 	document.calcul.result.value=Math.pow(document.calcul.result.value, 4);
+// }
 	 function sin(){
 	document.calcul.result.value=Math.sin(document.calcul.result.value);
 	}

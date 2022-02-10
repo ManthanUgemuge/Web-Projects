@@ -16,11 +16,10 @@ My All Web Developement Projects.
 |QR Code Generator|[Live](https://manthanugemuge.github.io/WebProjects/QR%20Code%20Generator)|
 |Scientific Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Scientific%20Calculator)|
 |Stopwatch|[Live](https://manthanugemuge.github.io/WebProjects/Stopwatch)|
-|Tip Calculator||
+|Tip Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator)|
 
-[Live](https://manthanugemuge.github.io/WebProjects/Stopwatch)
+[Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator)
 
--  - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Tip%20Calculator)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.

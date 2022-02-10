@@ -11,7 +11,7 @@ My All Web Developement Projects.
 |Project|Link|
 | ------------- | ------------- |
 |Glassmorphism Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Glassmorphism%20Calculator/)|
-<!--
+
 - MythpatTributePage - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/MythpatTributePage)
 - Profile Picture Generator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Profile%20Picture%20Generator)
 - QR Code Generator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/QR%20Code%20Generator)
@@ -19,7 +19,6 @@ My All Web Developement Projects.
 - Stopwatch - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Stopwatch)
 - Tip Calculator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Tip%20Calculator)
 
- -->
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
 

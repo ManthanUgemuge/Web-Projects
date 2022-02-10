@@ -9,8 +9,8 @@ My All Web Developement Projects.
 
 # All Projects Access Directly
 |-|Project|Link|
-|| ------------- | ------------- |
-|Glassmorphism Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Glassmorphism%20Calculator/)|
+|------------- | ------------- | ------------- |
+||Glassmorphism Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Glassmorphism%20Calculator/)|
 |MythpatTributePage|[Live](https://manthanugemuge.github.io/WebProjects/MythpatTributePage)|
 |Profile Picture Generator|[Live](https://manthanugemuge.github.io/WebProjects/Profile%20Picture%20Generator)|
 |QR Code Generator||

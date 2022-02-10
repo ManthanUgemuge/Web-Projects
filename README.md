@@ -13,14 +13,18 @@ My All Web Developement Projects.
 |Glassmorphism Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Glassmorphism%20Calculator/)|
 |MythpatTributePage|[Live](https://manthanugemuge.github.io/WebProjects/MythpatTributePage)|
 |Profile Picture Generator|[Live](https://manthanugemuge.github.io/WebProjects/Profile%20Picture%20Generator)|
-|||
-|||
-|||
+|QR Code Generator||
+|Scientific Calculator||
+|Stopwatch||
+|Tip Calculator||
 
-- QR Code Generator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/QR%20Code%20Generator)
-- Scientific Calculator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Scientific%20Calculator)
-- Stopwatch - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Stopwatch)
-- Tip Calculator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Tip%20Calculator)
+[Live](https://manthanugemuge.github.io/WebProjects/Profile%20Picture%20Generator)
+
+
+-  - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/QR%20Code%20Generator)
+-  - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Scientific%20Calculator)
+-  - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Stopwatch)
+-  - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Tip%20Calculator)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.

@@ -8,8 +8,10 @@ My All Web Developement Projects.
 <a target="_blank" href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img></a>
 
 # All Projects Access Directly
-
-- Glassmorphism Calculator - [Live](https://manthanugemuge.github.io/Web-Projects/Glassmorphism%20Calculator/)
+|Project|Link|
+| ------------- | ------------- |
+|Color Picker (ColorHunt)|https://colorhunt.co/ |
+-  - [Live](https://manthanugemuge.github.io/Web-Projects/Glassmorphism%20Calculator/)
 <!--
 - MythpatTributePage - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/MythpatTributePage)
 - Profile Picture Generator - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Profile%20Picture%20Generator)

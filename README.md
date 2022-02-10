@@ -15,12 +15,11 @@ My All Web Developement Projects.
 |Profile Picture Generator|[Live](https://manthanugemuge.github.io/WebProjects/Profile%20Picture%20Generator)|
 |QR Code Generator|[Live](https://manthanugemuge.github.io/WebProjects/QR%20Code%20Generator)|
 |Scientific Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Scientific%20Calculator)|
-|Stopwatch||
+|Stopwatch|[Live](https://manthanugemuge.github.io/WebProjects/Stopwatch)|
 |Tip Calculator||
 
-[Live](https://manthanugemuge.github.io/WebProjects/Profile%20Picture%20Generator)
+[Live](https://manthanugemuge.github.io/WebProjects/Stopwatch)
 
--  - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Stopwatch)
 -  - [Live](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Tip%20Calculator)
 
 ## Contributing

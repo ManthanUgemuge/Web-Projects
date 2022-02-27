@@ -7,8 +7,8 @@ My All Web Developement Projects.
 <a target="_blank" href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img></a>
 <a target="_blank" href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img></a>
 
-# All Projects
-Access them Directly here
+# How to use Project 
+Access them Directly here 
 
 |Project|Link|
 | ------------- | ------------- |
@@ -20,7 +20,7 @@ Access them Directly here
 |Stopwatch|[Live](https://manthanugemuge.github.io/WebProjects/Stopwatch)|
 |Tip Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator)|
 
-<!-- [Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator) -->
+<!-- All Projects [Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator) -->
 
 
 ## Contributing

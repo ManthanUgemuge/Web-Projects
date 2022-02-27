@@ -20,7 +20,7 @@ Access them Directly here
 |Stopwatch|[Live](https://manthanugemuge.github.io/WebProjects/Stopwatch)|
 |Tip Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator)|
 
-[Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator)
+<!-- [Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator) -->
 
 
 ## Contributing

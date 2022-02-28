@@ -10,6 +10,9 @@ My All Web Developement Projects.
 # How to use Project 
 
 - Download or clone the repository
+```
+https://github.com/ManthanUgemuge/WebProjects.git
+```
 
 
 Access them Directly here 

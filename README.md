@@ -15,7 +15,7 @@ https://github.com/ManthanUgemuge/WebProjects.git
 ```
 
 
-Access them Directly here 
+Access or Run them Directly here 
 
 |Project|Link|
 | ------------- | ------------- |

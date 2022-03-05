@@ -26,6 +26,7 @@ Access or Run them Directly here
 |Scientific Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Scientific%20Calculator)|
 |Stopwatch|[Live](https://manthanugemuge.github.io/WebProjects/Stopwatch)|
 |Tip Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator)|
+|||
 
 <!-- All Projects [Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator) -->
 

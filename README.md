@@ -1,4 +1,4 @@
-# WebProjects
+# Web Projects
 My All Web Developement Projects.
 
 ## Tech Stacks Used

@@ -1,5 +1,6 @@
 # Web Projects
 My All Web Developement Projects.
+Keeping all in one Repo for easy accessibility. 
 
 ## Tech Stacks Used
 
@@ -13,7 +14,6 @@ My All Web Developement Projects.
 ```
 https://github.com/ManthanUgemuge/WebProjects.git
 ```
-
 
 Access or Run them Directly here 
 

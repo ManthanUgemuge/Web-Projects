@@ -28,7 +28,7 @@ Access or Run them Directly here
 |Tip Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator)|
 |||
 
-<!-- All Projects [Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator) -->
+<!-- ll Projects [Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator) -->
 
 
 ## Contributing

@@ -24,7 +24,7 @@ Access or Run them Directly here
 |Profile Picture Generator|[Live](https://manthanugemuge.github.io/WebProjects/Profile%20Picture%20Generator)|
 |QR Code Generator|[Live](https://manthanugemuge.github.io/WebProjects/QR%20Code%20Generator)|
 |Scientific Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Scientific%20Calculator)|
-|Stopwatch|[Live](https://manthanugemuge.github.io/WebProjects/Stopwatch)|
+|Stopwatch|[Live](https://manthanugemuge.github.io/WebProjects/Stop%20Watch)|
 |Tip Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator)|
 |||
 

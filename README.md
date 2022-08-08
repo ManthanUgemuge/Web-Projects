@@ -15,7 +15,7 @@ Keeping all in one Repo for easy accessibility.
 https://github.com/ManthanUgemuge/WebProjects.git
 ```
 
-Access or Run them Directly here 
+Access or Run them Directly here :
 
 |Project|Link|
 | ------------- | ------------- |

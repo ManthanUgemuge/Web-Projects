@@ -12,7 +12,7 @@ Keeping all in one Repo for easy accessibility.
 
 - [Download](https://github.com/ManthanUgemuge/WebProjects/archive/refs/heads/main.zip) or clone the repository:
 ```
-https://github.com/ManthanUgemuge/WebProjects.git
+https://github.com/ManthanUgemuge/Web-Projects.git
 ```
 
 Access or Run them Directly here :

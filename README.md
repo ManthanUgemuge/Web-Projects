@@ -10,7 +10,7 @@ Keeping all in one Repo for easy accessibility.
 
 # How to use Project 
 
-- [Download](https://github.com/ManthanUgemuge/WebProjects/archive/refs/heads/main.zip) or clone the repository:
+- [Download](https://github.com/ManthanUgemuge/Web-Projects/archive/refs/heads/main.zip) or clone the repository:
 ```
 https://github.com/ManthanUgemuge/Web-Projects.git
 ```

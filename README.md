@@ -22,10 +22,10 @@ Access or Run them Directly here :
 |Glassmorphism Calculator|[Live](https://manthanugemuge.github.io/Web-Projects/Glassmorphism%20Calculator/)|
 |Mythpat Tribute Page|[Live](https://manthanugemuge.github.io/Web-Projects/Mythpat%20Tribute%20Page)|
 |Profile Picture Generator|[Live](https://manthanugemuge.github.io/Web-Projects/Profile%20Picture%20Generator)|
-|QR Code Generator|[Live](https://manthanugemuge.github.io/WebProjects/QR%20Code%20Generator)|
-|Scientific Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Scientific%20Calculator)|
-|Stopwatch|[Live](https://manthanugemuge.github.io/WebProjects/Stop%20Watch)|
-|Tip Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator)|
+|QR Code Generator|[Live](https://manthanugemuge.github.io/Web-Projects/QR%20Code%20Generator)|
+|Scientific Calculator|[Live](https://manthanugemuge.github.io/Web-Projects/Scientific%20Calculator)|
+|Stopwatch|[Live](https://manthanugemuge.github.io/Web-Projects/Stop%20Watch)|
+|Tip Calculator|[Live](https://manthanugemuge.github.io/Web-Projects/Tip%20Calculator)|
 |||
 
 <!-- ll Projects [Live](https://manthanugemuge.github.io/WebProjects/Tip%20Calculator) -->

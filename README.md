@@ -19,9 +19,9 @@ Access or Run them Directly here :
 
 |Project|Link|
 | ------------- | ------------- |
-|Glassmorphism Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Glassmorphism%20Calculator/)|
-|Mythpat Tribute Page|[Live](https://manthanugemuge.github.io/WebProjects/Mythpat%20Tribute%20Page)|
-|Profile Picture Generator|[Live](https://manthanugemuge.github.io/WebProjects/Profile%20Picture%20Generator)|
+|Glassmorphism Calculator|[Live](https://manthanugemuge.github.io/Web-Projects/Glassmorphism%20Calculator/)|
+|Mythpat Tribute Page|[Live](https://manthanugemuge.github.io/Web-Projects/Mythpat%20Tribute%20Page)|
+|Profile Picture Generator|[Live](https://manthanugemuge.github.io/Web-Projects/Profile%20Picture%20Generator)|
 |QR Code Generator|[Live](https://manthanugemuge.github.io/WebProjects/QR%20Code%20Generator)|
 |Scientific Calculator|[Live](https://manthanugemuge.github.io/WebProjects/Scientific%20Calculator)|
 |Stopwatch|[Live](https://manthanugemuge.github.io/WebProjects/Stop%20Watch)|

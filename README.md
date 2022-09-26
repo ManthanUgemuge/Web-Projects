@@ -10,7 +10,7 @@ Keeping all in one Repo for easy accessibility.
 
 # How to use Project 
 
-- [Download](https://github.com/ManthanUgemuge/Web-Projects/archive/refs/heads/main.zip) or clone the repository:
+- Download or clone the repository:
 
 ```
 https://github.com/ManthanUgemuge/web-projects.git
@@ -28,6 +28,9 @@ Access or Run them Directly here :
 |Stopwatch|[Live](https://manthanugemuge.github.io/web-projects/Stop%20Watch)||
 |Tip Calculator|[Live](https://manthanugemuge.github.io/web-projects/Tip%20Calculator)||
 ||||
+
+
+[Download](https://github.com/ManthanUgemuge/Web-Projects/archive/refs/heads/main.zip)
 
 <!-- ll Projects [Live](https://manthanugemuge.github.io/web-projects/Tip%20Calculator) -->
 

@@ -20,7 +20,7 @@ Access or Run them Directly here :
 
 |Project|Link|Download|
 | ------------- | ------------- | ------------- |
-|[Glassmorphism Calculator](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Glassmorphism%20Calculator)|[Live](https://manthanugemuge.github.io/web-projects/Glassmorphism%20Calculator/)||
+|[Glassmorphism Calculator](https://github.com/ManthanUgemuge/Web-Projects/tree/main/glassmorphism-calculator)|[Live](https://manthanugemuge.github.io/web-projects/Glassmorphism%20Calculator/)||
 |[Mythpat Tribute Page](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Mythpat%20Tribute%20Page)|[Live](https://manthanugemuge.github.io/web-projects/Mythpat%20Tribute%20Page)||
 |[Profile Picture Generator](https://github.com/ManthanUgemuge/Web-Projects/tree/main/Profile%20Picture%20Generator)|[Live](https://manthanugemuge.github.io/web-projects/Profile%20Picture%20Generator)||
 |QR Code Generator|[Live](https://manthanugemuge.github.io/web-projects/QR%20Code%20Generator)||

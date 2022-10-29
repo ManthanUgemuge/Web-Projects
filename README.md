@@ -25,7 +25,7 @@ Access or Run them Directly here :
 |[Profile Picture Generator](https://github.com/manthanugemuge/web-projects/tree/main/profile-picture-generator)|[Live](https://manthanugemuge.github.io/web-projects/profile-picture-generator)||
 |[QR Code Generator](https://github.com/manthanugemuge/web-projects/tree/main/qr-code-generator)|[Live](https://manthanugemuge.github.io/web-projects/qr-code-generator)||
 |[Scientific Calculator](https://github.com/manthanugemuge/web-projects/tree/main/scientific-calculator)|[Live](https://manthanugemuge.github.io/web-projects/scientific-calculator)||
-|Stopwatch|[Live](https://github.com/manthanugemuge/web-projects/tree/main/stop-watch)|[Live](https://manthanugemuge.github.io/web-projects/stop-watch)|
+|[Stopwatch](https://github.com/manthanugemuge/web-projects/tree/main/stop-watch)|[Live](https://manthanugemuge.github.io/web-projects/stop-watch)||
 |[Tip Calculator](https://github.com/manthanugemuge/web-projects/tree/main/tip-calculator)|[Live](https://manthanugemuge.github.io/web-projects/tip-calculator)||
 ||||
 

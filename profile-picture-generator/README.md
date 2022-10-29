@@ -20,7 +20,7 @@ API used : [joeschmoe](https://joeschmoe.io/)
 - Download or clone the repository
 
 ```
-Website : https://github.com/ManthanUgemuge/Profile-Picture-Generator
+Website : https://github.com/manthanugemuge/Profile-Picture-Generator
 
 ```
 - Run Directly - [Profile Picture Generator](https://manthanugemuge.github.io/Profile-Picture-Generator/)

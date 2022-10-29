@@ -20,7 +20,7 @@ Visit Website: https://goqr.me/api/
 - Download or clone the repository Website : 
  
 ```
-https://github.com/ManthanUgemuge/QRCodeGenerator.git
+https://github.com/manthanugemuge/QRCodeGenerator.git
 
 ```
 Run Directly - [QR Code Generator](https://manthanugemuge.github.io/QRCodeGenerator/)
